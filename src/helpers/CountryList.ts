@@ -1,4 +1,4 @@
-import { Country } from "@/types/CountryType";
+import { Country } from "@/types/stateTypes";
 
 
 
